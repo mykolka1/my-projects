@@ -1,0 +1,17 @@
+<svg width="40.928558" height="40.928589" viewBox="0 0 40.9286 40.9286" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<pattern id="pattern_32_490" patternContentUnits="objectBoundingBox" width="1.000000" height="1.000000">
+			<use xlink:href="#image32_49_0" transform="matrix(0.011111,0,0,0.011111,0,0)"/>
+		</pattern>
+		<image id="image32_49_0" width="90.000000" height="90.000000" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAABaCAYAAAA4qEECAAAABHNCSVQICAgIfAhkiAAABV5JREFUeJzt3FmoVVUcx/HPvaZZmaZBAzbQPBMRTSQ22EDQCA0PRQ/RBAX1EDRDUG/NveRDBU1QESEVNBFJWQk2UGJmpWRahmVmimRXrz2sc/F2u96zz95r73WH9YUf93Lu2fv/37+79j5r/c9ai0wmk8lkMplMJpPJZDKZTKZDulInUDNTMBPH4EBMbr2+DsvwNT7E+iTZjXC6cBHeRA+2tlEP3sAFyjW8LhxXOesRxkx8pb2529MXmNFBvHPxGW6Mk/42bkB37JNGYAIeQa/yJvepFw9jh+3E2gXXYWHr/X+0XovGia0TPxHzpBGYhPdUN3ig3rPNwD1wBV7FxgHvuz32Bb3Q7+R3xT55SSZirvgm92khFtn+nbLA9lt+KXbCX/0C9OLamAFK8pz6TG6nv3B07As6a5BAvbgtdqAOuHKQnJrSRpw+SE4Tq17UHUMEfUTz/fHJ+HWInOpuyef2y6ULJ+NJ3FL1wp5pE/xF7Fg1SAfc2SafuvQZDsH+wh01Gytbf3tfhB7ZawWS+ByHVg1UgHG2XVyT2iz0s9cO8rdl2DPGxb1VMJn1uDpGwCGYVTCXpvQ7DmuXdNGmvq7g+ybhWTyP3Qse0yln13TeMvyJ87Ek1gkf1/l/eg1uFrmfiQ9K5FKHVquhxnFNhYS+xhkRc0nxfB6oJQo8LspweITk5goVsqqfzAOHwE3rdaH8WhvfREr0W6E4tXPJPDZHyqOsJpTMuzC3R054PV7CpTozfbDuVZMq20AKM0X4lK0j+Q14RfjwPAHjh8hjcU051Gp0p0PnW/FomUAd8je+FAZBy7EKK1o/H8KFDeQwGFuERrC17kDjMF/aFpVSf5Y1rtMewBZcgl/KBhzhbCh7YFGjj+r3+yqhm7ambNARzG91B/hcGJFdhV1brx2NpdLfzk3q1bIGFm3Rq4VC9/NCEWU+bsIcY2tOxNKyBxatQ6zq9/sEnNTSWOOHsgcWbdHzygYYZSwqe2DRfvQ+Qj92LLNJGLRtKnNw0Ra9UvhAHMssUNJkOutHP1g2yCihscfnOHwvfRcrlc6pbmFxZkhfpkyhtSqWRzsdgs/TTFFpuDEH/zQddHwrcOpW1qTOj+JcCSYIE71TG9CEVmt2ctD/2AH3Gf3P7Aci+VWZ04QifWpD6lCPMFgbNvStG5lrdLXwVyJ6VJpdcCSm9nttGs7DR9KbVFW9OD6CT5WZKJRMtwrf8aU2JrZejmdVGO2VZbMwg/IU8ad9pWYzLhca0rBguv8uuRgtmh3TJKq1aMK3Kz0argPUzG/CpJ6NqRMZyHjDZ4ZnDF0a1564TMN30ptUVcOiO9eO/YWvelKbVVarRFoe0QRT1bOKtW5twqk1+FErXcI6lr4+9khQ9EXzTTJFWPC5XHojh9JTdRnQnyYWYnbjWGE11fFC3/tg7N1A7HbMEQYmPakTqYNZ+Fn6lvy2xHXmupgsbEERY0+NqnpHhHXbw41uYTnvL9IbvFXYDmNUmdwtPP/6dmpJrV7cbRRt2DUd9+BH6c3t0wbDfGhdhL7ZpXcJ03m3SG9sf80TdiRIylC30SwcJJRB1wmVvp2E0d90HCCsHj3W8Pz0/hv3CvNQtiTOZUi6cb1QNkzdKjvVWzgiviX1MhX3C606tYHt9KnBt+AZUewuGL5aekMH6mNcXN+lp2FHYdHQPGkHH2vwmP+uGBu17CcUjuZrZj7HCjyNy4ywQUfMzvtuwqylM4Xi0TG27W5bhn+E+diL8QneVWENSWrqHCV1CVsJHyx0B/fFXsLUhL79LnqEwcRa4YveDfhJ2LJiqXCXZDKZTCaTyWQymUwmk8lkMmOTfwHSgksuBp6DOQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<mask id="mask32_49" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="40.928558" height="40.928589">
+		<rect id="Twitter" width="40.928570" height="40.928570" fill="url(#pattern_32_490)" fill-opacity="1.000000"/>
+	</mask>
+	<g mask="url(#mask32_49)">
+		<rect id="Rectangle 12" x="-4.547607" width="40.928570" height="41.838093" fill="#FFFFFF" fill-opacity="1.000000"/>
+	</g>
+</svg>
