@@ -524,12 +524,24 @@ body{
 .top__line {
     width: 37.313433%; /* 450/1206 */
     height: 0;
-    border: 5px solid rgb(255, 250, 218);
+    border: 2.5px solid rgb(255, 250, 218);
 }
+
+@media (max-width:767px) {
+    .top__line {
+        display: none;
+    }
+}
+@media (max-width:767px) {
+    .top__title {
+        justify-content: center;
+    }
+}
+
 .top__info {
     display: flex;
-    justify-content: space-around;
-    height: 189px;
+    justify-content: center;
+    gap: 108.6px;
 }
 .text__title {
     color: rgb(255, 255, 255);
@@ -559,8 +571,27 @@ body{
     font-weight: 500;
     line-height: 32px;
 }
-.folow__img img{
-    
+.folow__img img{   
+}
+
+@media (max-width:992px) {
+    .top__info {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media (max-width:767px) {
+    .merchandise__text, .about__text, .franchise__text {
+        display: none;
+    }
+    .folow__img {
+        text-align: center;
+    }
+    .top__info {
+        justify-content: center;
+        flex-direction: row;
+        display: flex;
+    }
 }
 
 /* botum */
